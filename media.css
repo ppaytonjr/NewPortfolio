@@ -1,0 +1,41 @@
+/* Media */
+@media screen and (max-width: 768px) {
+ 
+    body {
+      
+      position:fixed;
+      height:auto;
+      width:auto;
+      
+    }
+    .row {
+        width:100%;
+    }
+    .wrapper {
+      width: 700px;
+      height:500px;
+      
+    }
+    .navbar {
+      float: none;
+      width: 100%;
+    }
+    .col-sm {
+      width: 100%;
+  }
+  .whome {
+    width:100%;
+  }
+  #main-container {
+    width:100%;
+  }
+  #port {
+    max-width:100%;
+    height:auto;
+  
+  }
+  .sidebar {
+      position:fixed;
+      float:right;
+  }
+  }
